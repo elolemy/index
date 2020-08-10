@@ -1,0 +1,16 @@
+/* Active Link */
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus,.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus,.option-box .color-option ul li,.option-box .gear-check {
+    background-color: #3fd42d;
+}
+
+.navbar-inverse .navbar-brand span,.about span,.about h1 span,.footer h3,.footer .copyright span  {
+    color: #3fd42d;
+}
+
+.testimonials .carousel-indicators li.active,.option-box .color-option {
+    border:3px solid #3fd42d;
+}
+
+.dropdown-menu {
+    border-top:3px solid #3fd42d;
+}
